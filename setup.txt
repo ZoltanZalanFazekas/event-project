@@ -1,0 +1,2 @@
+terminal - npm run serve
+event-proect->src->cmd - json-server --watch db.json

@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "id": "67f5",
+      "name": "Zoltan",
+      "email": "zoltan.fazekas@asd.com",
+      "password": "1234"
+    },
+    {
+      "id": "1f27",
+      "email": "zoltan.fazekas@outlook.sk",
+      "password": "8461231",
+      "name": "Zoltan Fazekas"
+    },
+    {
+      "id": "c5a3",
+      "email": "1234",
+      "password": "1234",
+      "name": "1234"
+    },
+    {
+      "id": "47d2",
+      "email": "fazekas.zoltan2003@gmail.com",
+      "password": "adsads",
+      "name": "Zoltán Zalán Fazekas"
+    },
+    {
+      "id": "eade",
+      "email": "zoltan.fazekas@outlook.sk",
+      "password": "zolatna",
+      "name": "Zoltan Fazekas"
+    },
+    {
+      "id": "1b22",
+      "email": "zoltan.fazekas@outlook.sk",
+      "password": "adasdasdasdads",
+      "name": "Zoltan Fazekas"
+    },
+    {
+      "id": "20d2",
+      "email": "1234",
+      "password": "1234",
+      "name": "1234"
+    },
+    {
+      "id": "297a",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "2655",
+      "email": "zoltan.fazekas@outlook.sk",
+      "password": "asdasd",
+      "name": "Zoltan Fazekas"
+    },
+    {
+      "id": "148b",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "736e",
+      "email": "zoltan.fazekas@outlook.sk",
+      "password": "asdasd",
+      "name": "Zoltan Fazekas"
+    }
+  ],
+  "event": [
+    {
+      "id": "94fc",
+      "name": "Dreamhack",
+      "address": "Nitra",
+      "date": "26.5.2012"
+    },
+    {
+      "id": "31c6",
+      "name": "Koncert",
+      "address": "Bratislava",
+      "date": "11.1.2011"
+    }
+  ]
+}
